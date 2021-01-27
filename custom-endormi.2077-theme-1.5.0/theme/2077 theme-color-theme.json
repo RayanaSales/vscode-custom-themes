@@ -655,8 +655,10 @@
 
 		// Side Bar
 		"sideBar.background": "#030d22",
+		"sideBar.border": "#1f9aff",
 		"sideBarSectionHeader.background": "#04112e",
 		"sideBarSectionHeader.foreground": "#1f9aff",
+    // "sideBarSectionHeader.border": "#1f9aff",
 
 		// Lists & Trees
 		"list.activeSelectionBackground": "#073170",
